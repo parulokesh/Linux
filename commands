@@ -1,0 +1,4 @@
+mkdir
+pwd
+touch
+awk,grep,sed,find
